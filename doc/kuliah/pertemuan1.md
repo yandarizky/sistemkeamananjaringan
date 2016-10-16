@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="../../img/keamanan.jpg" width="400px">
+
 **Latar Belakang Masalah**
 
 1. **1.** Apa pengertian Osi layer?
