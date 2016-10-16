@@ -14,6 +14,7 @@
 **ISI**
 
 **OSI layer** adalah suatu model konseptual yang memiliki 7 layer yang berbeda dan memiliki fungsi berbeda pada tiap layernya.Berikut merupakan 7 layer yang terdapat pada Osi Layer:
+<p align="center">
 <img src="../../img/osilayer.PNG" width="400px">
 
 1. Application layer berfungsi sebagai interface suatu aplikasi,pada layer inilah user berinteraksi dengan jaringan.contoh nya yaitu FTP,SMTP,HTTP,NFS,telnet.
@@ -28,6 +29,7 @@ Contohnya TCP atau Connected Oriented)
 3. Physical layer berfungsi untuk menjaga transmisi jaringan dan mendefiniskan media.contoh Hub dan kabel fiber.
 
 **TCP/IP** adalah model jaringan yang digunakan sebagai komunikasi data dalam proses tukar-menukar data/informasi.Berikut terdapat 4 layer dalam TCP/IP:
+<p align="center">
 <img src="../../img/tcpip.PNG" width="400px">
 
 1. Aplication Layer berfungsi sebagai penyedia akses dan service-service kepada aplikasi terhadap layanan jaringan TCP/IP.Contoh HTTP,FTP dan SMPTP
