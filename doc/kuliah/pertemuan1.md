@@ -1,7 +1,7 @@
 **Resume Pertemuan 1 Sistem Keamanan Jaringan**
 
 <p align="center">
-  <img src="../../img/keamanan.jpg" width="400px">
+  <img src="../../img/images2.jpg" width="400px">
 
 **Latar Belakang Masalah**
 
