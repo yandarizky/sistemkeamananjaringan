@@ -69,4 +69,6 @@ referensi: https://panda94.wordpress.com/2013/01/21/layer-osi-dan-tcp-ip/
 
 Scan plagiarisme: 
 1. https://drive.google.com/open?id=0ByZqhNt9UFJ2cldEQzdxUG1lYTQ
+
+
 2. https://drive.google.com/open?id=0ByZqhNt9UFJ2WTNyUHdyM0cwb0U
