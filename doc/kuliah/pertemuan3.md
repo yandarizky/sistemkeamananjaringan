@@ -19,6 +19,8 @@
 1. **Reconnaissance** berfungsi untuk memetakan dan menjelajahi sebuah jaringan.
 2. **Scanning** berfungsi untuk pendeteksian yang masih hidup dan dapat diakses melalui internet.
 3. **Gaining Access** berfungsi melakukan percobaan untuk masuk ke sistem yang akan dihack.
+4. **Maintaining Access** berfungsi untuk menguasai sistem  dan berusaha memelihara Kepemilikan dari sistem yang telah dikuasainya.
+5. **Clearing Attacks** berfungsi untuk menghapus atau membersihkan jejak, bukti kehadiran, maupun aktivitas.
 
 
 **PENUTUP**
