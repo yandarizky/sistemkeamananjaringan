@@ -1,7 +1,7 @@
 **RESUME PERTEMUAN 3 SISTEM KEAMANAN JARINGAN**
 
 <p align="center">
-  <img src="../../img/3.PNG" width="400px">
+  <img src="../../img/3.png" width="400px">
 
 **Latar Belakang**
 
