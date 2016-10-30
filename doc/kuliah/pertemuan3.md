@@ -22,6 +22,9 @@
 4. **Maintaining Access** berfungsi untuk menguasai sistem  dan berusaha memelihara Kepemilikan dari sistem yang telah dikuasainya.
 5. **Clearing Attacks** berfungsi untuk menghapus atau membersihkan jejak, bukti kehadiran, maupun aktivitas.
 
+**Scapy adalah** suatu program yang dibuat menggunakan bahasa pemrograman python. **Fungsi Scapy yaitu** digunakan untuk memanipulasi paket di jaringan,tracerouting, maupun hacking.
+
+**ARP Poisoning** adalah suatu teknik menyerang pada jaringan komputer lokal ataupun dengan media kabel atau wireless, yang dapat memungkinkan penyerang dapat mengetahui frames data pada jaringan lokal kemudian melakukan modifikasi traffic dan bahkan menghentikan traffic.
 
 **PENUTUP**
 
@@ -51,6 +54,6 @@ referensi: https://ahsanitaqwimsite.wordpress.com/2015/10/31/hacking-anatomy/
 
 Scan plagiarisme:
 
-1. https://drive.google.com/open?id=0ByZqhNt9UFJ2TzdVbl9ZdDNkelE
+1. https://drive.google.com/open?id=0ByZqhNt9UFJ2X1lIcDVTdXI4LUU
 
-2. https://drive.google.com/open?id=0ByZqhNt9UFJ2N0JsTF91TXNEVGs
+2. https://drive.google.com/open?id=0ByZqhNt9UFJ2bkZYdU1GZ3FjOXc
