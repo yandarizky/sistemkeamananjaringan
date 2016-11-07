@@ -2,7 +2,7 @@
 <p align="center">
   <img src="../../img/5.jpg" width="400px">
 
-        Pada saat ini dunia hacking sudah marak digunakan dan bicara mengenai dunia hacking sudah banyak juga terdapat tools-tools pendukungnya yang digunakan dalam aktivitas hacking. Banyak istilah-istilah aktivitas hacking yang telah banyak di gunakan dan di implementsikan dalam dunia hacking.Salah satunya yaitu Sniffing.
+Pada saat ini dunia hacking sudah marak digunakan dan bicara mengenai dunia hacking sudah banyak juga terdapat tools-tools pendukungnya yang digunakan dalam aktivitas hacking. Banyak istilah-istilah aktivitas hacking yang telah banyak di gunakan dan di implementsikan dalam dunia hacking.Salah satunya yaitu Sniffing.
 
 1. Apa yang dimaksud Sniffing?
 2. Apa saja bentuk-bentuk sniffing?
@@ -26,11 +26,11 @@
 
 **Kesimpulan**
 
-**       ** Dari penjelasan-penjelasan diatas dapat disimpulkan bahwa sniffing adalah suatu aktivitas penyadapan yang dilakukan dalam jaringan dengan tujuan untuk mencuri data-data pribadi dari account orang lain.Penggunaan sniffing dalam aktivitas hacking sangatlah mudah karena telah di sokong dengan tools-tools pendukungnya.
+** Dari penjelasan-penjelasan diatas dapat disimpulkan bahwa sniffing adalah suatu aktivitas penyadapan yang dilakukan dalam jaringan dengan tujuan untuk mencuri data-data pribadi dari account orang lain.Penggunaan sniffing dalam aktivitas hacking sangatlah mudah karena telah di sokong dengan tools-tools pendukungnya.
 
 **Saran**
 
-**       ** Saran dari saya yaitu agar dalam aktivitas hacking terutama pada sniffing ini agar di gunakan ke hal yang positif dan dengan sebaik-baiknya tanpa harus merugikan orang lain.
+** Saran dari saya yaitu agar dalam aktivitas hacking terutama pada sniffing ini agar di gunakan ke hal yang positif dan dengan sebaik-baiknya tanpa harus merugikan orang lain.
 
 link github: https://github.com/yandarizky/sistemkeamananjaringan
 
