@@ -35,7 +35,8 @@ Kesimpulan
 Firewall adalah  sebuah aturan dalam sebuah system operasi yang berfungsi untuk mengatur paket yang dating dan pergi dari suatu jaringan seperti layaknya pintu bisa dibuka dan ditutup..Firewall itu sendiri mempunyai fungsi dan manfaat yang terdapat didalamnya.
 
 Saran
-         Sebaiknya materi mengenai firewall ini dapat diperdalam lagi karena dapat berguna bagi kita dalam mengelola dan mengatur dalam hal jaringan.
+
+Sebaiknya materi mengenai firewall ini dapat diperdalam lagi karena dapat berguna bagi kita dalam mengelola dan mengatur dalam hal jaringan.
 
 link github: https://github.com/yandarizky/sistemkeamananjaringan
 
