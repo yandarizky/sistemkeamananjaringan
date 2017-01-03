@@ -19,67 +19,67 @@ Sebelum menginstall snort, install dulu beberapa paket yang dibutuhkan snort unt
 
 Masukkan script dibawah ini:
 
-# yum install libdnet libdnet-devel pcre pcre-devel gcc make flex byacc bison kernel-devel libxml2-devel wget -y
+#yum install libdnet libdnet-devel pcre pcre-devel gcc make flex byacc bison kernel-devel libxml2-devel wget -y
 
 Selanjutnya membuat direktori atau folder untuk digunakan sebagai tempat instalasi.
 
 Masukkan script dibawah ini:
 
-# mkdir /usr/local/src/snort
+#mkdir /usr/local/src/snort
 
-# cd /usr/local/src/snort
+#cd /usr/local/src/snort
 
 Instalasi Libpcap.
 
 Masukkan script dibawah ini:
 
-# wget http://www.tcpdump.org/release/libpcap-1.3.0.tar.gz -O libpcap.tar.gz
+#wget http://www.tcpdump.org/release/libpcap-1.3.0.tar.gz -O libpcap.tar.gz
 
-# tar zxvf libpcap.tar.gz
+#tar zxvf libpcap.tar.gz
 
-# cd libpcap-\*
+#cd libpcap-\*
 
-# ./configure &amp;&amp; make &amp;&amp; make install
+#./configure &amp;&amp; make &amp;&amp; make install
 
-# echo &quot;/usr/local/lib&quot; &gt;&gt; /etc/ld.so.conf
+#echo &quot;/usr/local/lib&quot; &gt;&gt; /etc/ld.so.conf
 
-# ldconfig -v
+#ldconfig -v
 
 Instalasi DAQ.
 
 Masukkan script dibawah ini:
 
-# wget https://www.snort.org/downloads/snort/daq-2.0.6.tar.gz -O daq.tar.gz
+#wget https://www.snort.org/downloads/snort/daq-2.0.6.tar.gz -O daq.tar.gz
 
-# tar zxvf daq.tar.gz
+#tar zxvf daq.tar.gz
 
-# cd daq-\*
+#cd daq-\*
 
-# ./configure &amp;&amp; make &amp;&amp; make install
+#./configure &amp;&amp; make &amp;&amp; make install
 
-# ldconfig -v
+#ldconfig -v
 
 Buat user dan group untuk snort.
 
 Masukkan script dibawah ini:
 
-# groupadd snort
+#groupadd snort
 
-# useradd -g snort snort
+#useradd -g snort snort
 
 Masuk ke folder snort dan instalasi snort.
 
 Masukkan script dibawah ini:
 
-# cd /usr/local/src/snort
+#cd /usr/local/src/snort
 
-# wget https://www.snort.org/downloads/snort/snort-2.9.9.0.tar.gz -O snort.tar.gz
+#wget https://www.snort.org/downloads/snort/snort-2.9.9.0.tar.gz -O snort.tar.gz
 
-# tar zxvf snort.tar.gz
+#tar zxvf snort.tar.gz
 
-# cd snort-2\*
+#cd snort-2\*
 
-# ./configure –prefix /usr/local/snort –enable-sourcefire &amp;&amp; make &amp;&amp; make install
+#./configure –prefix /usr/local/snort –enable-sourcefire &amp;&amp; make &amp;&amp; make install
 
 **PENUTUPAN**
 
