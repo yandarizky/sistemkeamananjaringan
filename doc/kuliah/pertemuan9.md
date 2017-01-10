@@ -1,7 +1,7 @@
 **RESUME PERTEMUAN 9 SISTEM KEAMANAN JARINGAN**
 
 <p align="center">
-  <img src="../../img/99.JPG" width="400px">
+  <img src="../../img/99.jpg" width="400px">
 
 **LATAR BELAKANG MASALAH**
 
