@@ -30,7 +30,9 @@
 
 Penutup 
 
-Kesimpulan Dari pernyataan diatas dapat disimpulkan bahwa RADIUS adalah suatu alat yang dapat digunakan untuk melakukan pemberian hak akses pada wifi kita agar jaringan kita lebih aman.
+Kesimpulan 
+
+Dari pernyataan diatas dapat disimpulkan bahwa RADIUS adalah suatu alat yang dapat digunakan untuk melakukan pemberian hak akses pada wifi kita agar jaringan kita lebih aman.
 
 Saran 
 
