@@ -28,9 +28,13 @@
   <img src="../../img/rd.gif" width="400px">
 
 
-Penutup Kesimpulan Dari pernyataan diatas dapat disimpulkan bahwa RADIUS adalah suatu alat yang dapat digunakan untuk melakukan pemberian hak akses pada wifi kita agar jaringan kita lebih aman.
+Penutup 
 
-Saran Saran dari saya agar RADIUS ini dapat diimplementasikan agar hak akses wifi kita dapat digunakan oleh kita sendiri
+Kesimpulan Dari pernyataan diatas dapat disimpulkan bahwa RADIUS adalah suatu alat yang dapat digunakan untuk melakukan pemberian hak akses pada wifi kita agar jaringan kita lebih aman.
+
+Saran 
+
+Saran dari saya agar RADIUS ini dapat diimplementasikan agar hak akses wifi kita dapat digunakan oleh kita sendiri
 
 link github: https://github.com/yandarizky/sistemkeamananjaringan
 
